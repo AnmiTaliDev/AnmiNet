@@ -1,5 +1,5 @@
-# Bussin Napture
-This folder contains the source code for **Bussin Napture**, the official Bussin Web X **browser**.
+# AnmiNet OpenSerf
+This folder contains the source code for fork **Bussin Napture**, the official AnmiNet **browser**.
 
 The file structure:
 - `src/b9` - B9 is the codename for Napture's rendering engine. It is responsible for handling HTML, CSS and Lua.
